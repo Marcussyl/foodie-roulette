@@ -19,3 +19,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1fvCwUVEiRaB0nqf0zrjcF0
 3. Run the app:
    `npm run dev`
 # foodie-roulette
+
+> Last updated: 2024-06-11
